@@ -74,14 +74,11 @@ List of plugins and settings that I use for Frontend Development
 This is the whole settings file, maybe some properties are not needed anymore
 
 ```json
-// Place your settings in this file to overwrite the default settings
 {
   "gitlens.advanced.messages": {
     "suppressShowKeyBindingsNotice": true
   },
-  "gitlens.historyExplorer.enabled": true,
   "workbench.colorTheme": "Material Theme",
-  "materialTheme.fixIconsRunning": false,
   "editor.renderWhitespace": "all",
   "editor.cursorBlinking": "phase",
   "editor.formatOnPaste": true,
@@ -92,12 +89,10 @@ This is the whole settings file, maybe some properties are not needed anymore
   "telemetry.enableCrashReporter": false,
   "telemetry.enableTelemetry": false,
   "cSpell.userWords": [
-    "alexeev",
     "backstopjs",
     "behaviour",
     "behaviours",
     "bezier",
-    "binded",
     "dhcp",
     "divs",
     "drupal",
@@ -112,9 +107,6 @@ This is the whole settings file, maybe some properties are not needed anymore
     "helvetica",
     "htaccess",
     "imgoptim",
-    "intelephense",
-    "intelli",
-    "ioulian",
     "iñtërnâtiônàlizætiøn",
     "jank",
     "lucida",
@@ -126,7 +118,6 @@ This is the whole settings file, maybe some properties are not needed anymore
     "optipng",
     "paginator",
     "pano",
-    "ph",
     "phpcbf",
     "phpcs",
     "phpstorm",
@@ -148,7 +139,6 @@ This is the whole settings file, maybe some properties are not needed anymore
     "typeof",
     "uuid's",
     "verdana",
-    "waxdev",
     "xcode",
     "xlink",
     "yandex",
@@ -165,9 +155,6 @@ This is the whole settings file, maybe some properties are not needed anymore
   "editor.wordWrapColumn": 120,
   "prettier.printWidth": 120,
   "git.enableSmartCommit": true,
-  "phpcs.executablePath": "/usr/local/bin/phpcs",
-  "phpcs.enable": false,
-  "twigcs.executablePath": "/Users/ioulianalexeev/.composer/vendor/allocine/twigcs/bin/twigcs",
   "workbench.statusBar.feedback.visible": false,
   "prettier.singleQuote": true,
   "prettier.trailingComma": "es5",
@@ -175,17 +162,13 @@ This is the whole settings file, maybe some properties are not needed anymore
   "html-css-class-completion.enableEmmetSupport": true,
   "html-css-class-completion.includeGlobPattern": "**/*.{css,html,twig}",
   "gitlens.advanced.telemetry.enabled": false,
-  "code-runner.enableAppInsights": false,
   "search.followSymlinks": false,
   "javascript.updateImportsOnFileMove.enabled": "never",
   "javascript.validate.enable": false,
-  "flow.pathToFlow": "${workspaceRoot}/node_modules/.bin/flow",
   "prettier.requireConfig": true,
   "prettier.parser": "flow",
   "explorer.confirmDragAndDrop": false,
   "window.zoomLevel": 0,
-  "twigcs.enable": false,
-  "twig-language-2.formatting": false,
   "prettier.tslintIntegration": true,
   "tslint.ignoreDefinitionFiles": true,
   "files.associations": {
@@ -199,7 +182,6 @@ This is the whole settings file, maybe some properties are not needed anymore
 ## Keyboard shortcuts
 
 ```json
-// Place your key bindings in this file to overwrite the defaults
 [
     {
         "key": "shift+cmd+d",
