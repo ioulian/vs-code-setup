@@ -57,6 +57,7 @@ List of plugins and settings that I use for Frontend Development
 - [Sass](https://github.com/robinbentley/vscode-sass-indented)
 - [SCSS Intellisense](https://github.com/mrmlnc/vscode-scss)
 - [IntelliSense for CSS class names in HTML](https://github.com/Zignd/HTML-CSS-Class-Completion)
+- [vscode-styled-components](https://github.com/styled-components/vscode-styled-components)
 
 ### Linting
 
