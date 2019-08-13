@@ -51,6 +51,7 @@ List of plugins and settings that I use for Frontend Development
 - [Sublime Babel](https://github.com/joshpeng/Sublime-Babel-VSCode)
 - [TSLint](https://github.com/Microsoft/vscode-typescript-tslint-plugin)
 - [VSCode React Refactor](https://github.com/planbcoding/vscode-react-refactor)
+- [Auto Import](https://marketplace.visualstudio.com/items?itemName=steoates.autoimport)
 
 ### CSS/SCSS/POSTCSS
 
