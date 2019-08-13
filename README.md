@@ -23,7 +23,7 @@ List of plugins and settings that I use for Frontend Development
 
 ### Code in general
 
-- [Bracket Pair Colorizer](https://github.com/CoenraadS/BracketPair)
+- [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2)
 - [Calculator](https://github.com/lixquid/vscode-calculator) (Useful when converting pixel values to rem or defining time by using seconds)
 - [Code Spell Checker](https://github.com/streetsidesoftware/vscode-spell-checker)
 
@@ -36,6 +36,7 @@ List of plugins and settings that I use for Frontend Development
 - [vscode-icons](https://github.com/vscode-icons/vscode-icons)
 - [TODO Highlight](https://github.com/wayou/vscode-todo-highlight)
 - [Path Intellisense](https://github.com/ChristianKohler/PathIntellisense)
+- [Nasc VSCode Touchbar](https://marketplace.visualstudio.com/items?itemName=felipe.nasc-touchbar)
 
 ### NPM
 
@@ -52,6 +53,7 @@ List of plugins and settings that I use for Frontend Development
 - [TSLint](https://github.com/Microsoft/vscode-typescript-tslint-plugin)
 - [VSCode React Refactor](https://github.com/planbcoding/vscode-react-refactor)
 - [Auto Import](https://marketplace.visualstudio.com/items?itemName=steoates.autoimport)
+- [Typescript React code snippets](https://marketplace.visualstudio.com/items?itemName=infeng.vscode-react-typescript)
 
 ### CSS/SCSS/POSTCSS
 
