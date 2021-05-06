@@ -25,18 +25,14 @@ List of plugins and settings that I use for Frontend Development
 
 - [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2)
 - [Calculator](https://github.com/lixquid/vscode-calculator) (Useful when converting pixel values to rem or defining time by using seconds)
-- [Code Spell Checker](https://github.com/streetsidesoftware/vscode-spell-checker)
 
 ### Editor
 
 - [EditorConfig for VS Code](https://github.com/editorconfig/editorconfig-vscode)
 - [Material Theme](https://github.com/equinusocio/vsc-material-theme)
-- [REST Client](https://github.com/Huachao/vscode-restclient.git)
-- [SVG Viewer](https://github.com/cssho/vscode-svgviewer)
-- [vscode-icons](https://github.com/vscode-icons/vscode-icons)
 - [TODO Highlight](https://github.com/wayou/vscode-todo-highlight)
 - [Path Intellisense](https://github.com/ChristianKohler/PathIntellisense)
-- [Nasc VSCode Touchbar](https://marketplace.visualstudio.com/items?itemName=felipe.nasc-touchbar)
+- [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)
 
 ### NPM
 
@@ -50,17 +46,12 @@ List of plugins and settings that I use for Frontend Development
 ### JS/ES6/TS
 
 - [Sublime Babel](https://github.com/joshpeng/Sublime-Babel-VSCode)
-- [TSLint](https://github.com/Microsoft/vscode-typescript-tslint-plugin)
-- [VSCode React Refactor](https://github.com/planbcoding/vscode-react-refactor)
 - [Auto Import](https://marketplace.visualstudio.com/items?itemName=steoates.autoimport)
-- [Typescript React code snippets](https://marketplace.visualstudio.com/items?itemName=infeng.vscode-react-typescript)
 
 ### CSS/SCSS/POSTCSS
 
 - [Sass](https://github.com/robinbentley/vscode-sass-indented)
 - [SCSS Intellisense](https://github.com/mrmlnc/vscode-scss)
-- [IntelliSense for CSS class names in HTML](https://github.com/Zignd/HTML-CSS-Class-Completion)
-- [vscode-styled-components](https://github.com/styled-components/vscode-styled-components)
 
 ### Linting
 
@@ -79,53 +70,36 @@ This is the whole settings file, maybe some properties are not needed anymore
 
 ```json
 {
-    "workbench.colorTheme": "Material Theme High Contrast",
-    "workbench.colorCustomizations": {
-        "activityBarBadge.background": "#80CBC4",
-        "list.activeSelectionForeground": "#80CBC4",
-        "list.inactiveSelectionForeground": "#80CBC4",
-        "list.highlightForeground": "#80CBC4",
-        "scrollbarSlider.activeBackground": "#80CBC450",
-        "editorSuggestWidget.highlightForeground": "#80CBC4",
-        "textLink.foreground": "#80CBC4",
-        "progressBar.background": "#80CBC4",
-        "pickerGroup.foreground": "#80CBC4",
-        "tab.activeBorder": "#80CBC4",
-        "notificationLink.foreground": "#80CBC4",
-        "editorWidget.resizeBorder": "#80CBC4",
-        "editorWidget.border": "#80CBC4",
-        "settings.modifiedItemIndicator": "#80CBC4",
-        "settings.headerForeground": "#80CBC4",
-        "panelTitle.activeBorder": "#80CBC4",
-        "breadcrumb.activeSelectionForeground": "#80CBC4",
-        "menu.selectionForeground": "#80CBC4",
-        "menubar.selectionForeground": "#80CBC4",
-        "editor.findMatchBorder": "#80CBC4",
-        "selection.background": "#80CBC440"
-    },
-    "materialTheme.accent": "Teal",
-    "workbench.iconTheme": "vscode-icons",
-    "telemetry.enableCrashReporter": false,
-    "telemetry.enableTelemetry": false,
-    "editor.renderWhitespace": "all",
-    "editor.formatOnSave": true,
-    "terminal.external.osxExec": "iTerm.app",
-    "eslint.autoFixOnSave": true,
-    "explorer.confirmDragAndDrop": false,
-    "typescript.updateImportsOnFileMove.enabled": "always",
-    "nasc-touchbar.addCursorBelow": false,
-    "nasc-touchbar.goToDefinition": false,
-    "nasc-touchbar.rename": false,
-    "nasc-touchbar.showCommands": false,
-    "nasc-touchbar.togglePanel": false,
-    "nasc-touchbar.commentLine": true,
-    "nasc-touchbar.toggleSidebar": true,
-    "nasc-touchbar.blockComment": true,
-    "nasc-touchbar.copyLineDown": true,
-    "[typescriptreact]": {
-        "editor.defaultFormatter": "esbenp.prettier-vscode"
-    }
+  "editor.formatOnPaste": true,
+  "editor.renderWhitespace": "all",
+  "telemetry.enableCrashReporter": false,
+  "telemetry.enableTelemetry": false,
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[ejs]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.formatOnSave": true,
+  "explorer.confirmDelete": false,
+  "editor.codeActionsOnSave": {
+    "source.fixAll": true
+  },
+  "files.associations": {},
+  "[twig]": {
+    "editor.formatOnSave": false,
+    "editor.formatOnPaste": false
+  },
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "eslint.format.enable": true,
+  "explorer.confirmDragAndDrop": false
 }
+
 ```
 
 ## Keyboard shortcuts
