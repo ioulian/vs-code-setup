@@ -61,6 +61,11 @@ List of plugins and settings that I use for Frontend Development
 }
 ```
 - [ESLint](https://github.com/Microsoft/vscode-eslint)
+```json
+{
+  "eslint.format.enable": true,
+}
+```
 
 ### CSS/SCSS/POSTCSS
 
