@@ -3,11 +3,48 @@ List of plugins and settings that I use for Frontend Development
 
 ## Extensions
 
+### Editor
+
+- [EditorConfig for VS Code](https://github.com/editorconfig/editorconfig-vscode)
+- [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)
+- [TODO Highlight](https://github.com/wayou/vscode-todo-highlight) (Possible duplicate with [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments))
+- [Path Intellisense](https://github.com/ChristianKohler/PathIntellisense)
+- [Red Hat Commons](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-commons)
+
+### Code in general
+
+- [Calculator](https://github.com/lixquid/vscode-calculator) (Nice to have)
+
+### Character checks and tools
+
+- [Gremlins tracker for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=nhoizey.gremlins)
+- [Highlight Bad Chars](https://marketplace.visualstudio.com/items?itemName=wengerk.highlight-bad-chars)
+- [HTML accented character converter](https://marketplace.visualstudio.com/items?itemName=enriquein.htmlentity-replacer)
+
 ### HTML
 
 - [Auto Close Tag](https://github.com/formulahendry/vscode-auto-close-tag)
 - [Auto Rename Tag](https://github.com/formulahendry/vscode-auto-rename-tag)
 - [HTMLHint](https://github.com/Microsoft/vscode-htmlhint)
+
+### JS/ES6/TS
+
+- [Sublime Babel](https://github.com/joshpeng/Sublime-Babel-VSCode)
+- [Auto Import](https://marketplace.visualstudio.com/items?itemName=steoates.autoimport)
+- [Prettier](https://github.com/prettier/prettier-vscode)
+- [ESLint](https://github.com/Microsoft/vscode-eslint)
+
+### CSS/SCSS/POSTCSS
+
+- [Sass](https://github.com/robinbentley/vscode-sass-indented)
+- [SCSS Intellisense](https://github.com/mrmlnc/vscode-scss)
+- [Stylelint](https://marketplace.visualstudio.com/items?itemName=stylelint.vscode-stylelint)
+- [vscode-styled-components](https://marketplace.visualstudio.com/items?itemName=styled-components.vscode-styled-components)
+
+### Markdown
+
+- [Markdown All in One](https://github.com/yzhang-gh/vscode-markdown)
+- [markdownlint](https://github.com/DavidAnson/vscode-markdownlint)
 
 ### Git
 
@@ -15,24 +52,6 @@ List of plugins and settings that I use for Frontend Development
 - [GitHub](https://github.com/KnisterPeter/vscode-github)
 - [gitignore](https://github.com/CodeZombieCH/vscode-gitignore)
 - [GitLens -- Git supercharged](https://github.com/eamodio/vscode-gitlens)
-
-### Markdown
-
-- [Markdown All in One](https://github.com/yzhang-gh/vscode-markdown)
-- [markdownlint](https://github.com/DavidAnson/vscode-markdownlint)
-
-### Code in general
-
-- [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2)
-- [Calculator](https://github.com/lixquid/vscode-calculator) (Useful when converting pixel values to rem or defining time by using seconds)
-
-### Editor
-
-- [EditorConfig for VS Code](https://github.com/editorconfig/editorconfig-vscode)
-- [Material Theme](https://github.com/equinusocio/vsc-material-theme)
-- [TODO Highlight](https://github.com/wayou/vscode-todo-highlight)
-- [Path Intellisense](https://github.com/ChristianKohler/PathIntellisense)
-- [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)
 
 ### NPM
 
@@ -43,26 +62,23 @@ List of plugins and settings that I use for Frontend Development
 - [Search node_modules](https://github.com/jasonnutter/vscode-search-node-modules)
 - [Import Cost](https://github.com/wix/import-cost)
 
-### JS/ES6/TS
+### Docs/Comments
 
-- [Sublime Babel](https://github.com/joshpeng/Sublime-Babel-VSCode)
-- [Auto Import](https://marketplace.visualstudio.com/items?itemName=steoates.autoimport)
+- [Rewrap](https://marketplace.visualstudio.com/items?itemName=stkb.rewrap)
 
-### CSS/SCSS/POSTCSS
-
-- [Sass](https://github.com/robinbentley/vscode-sass-indented)
-- [SCSS Intellisense](https://github.com/mrmlnc/vscode-scss)
-
-### Linting
-
-- [Prettier](https://github.com/prettier/prettier-vscode)
-- [stylelint](https://github.com/shinnn/vscode-stylelint)
-- [ESLint](https://github.com/Microsoft/vscode-eslint)
-
-### Other
+### Other languages
 
 - [DotENV](https://github.com/mikestead/vscode-dotenv)
+- [Apache Conf](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-apache)
 - [XML Tools](https://github.com/DotJoshJohnson/vscode-xml)
+- [YAML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml)
+- [Drupal Syntax Highlighting](https://marketplace.visualstudio.com/items?itemName=marcostazi.VS-code-drupal)
+- [Twig](https://marketplace.visualstudio.com/items?itemName=whatwedo.twig)
+- [Twig Language 2](https://marketplace.visualstudio.com/items?itemName=mblode.twig-language-2)
+
+### Frameworks
+
+- [Vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur)
 
 ## Settings dump
 
