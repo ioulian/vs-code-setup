@@ -35,7 +35,7 @@ List of plugins and settings that I use for Frontend Development
 - [Sublime Babel](https://github.com/joshpeng/Sublime-Babel-VSCode)
 - [Auto Import](https://marketplace.visualstudio.com/items?itemName=steoates.autoimport)
 - [Prettier](https://github.com/prettier/prettier-vscode)
-  - ```json
+```json
 {
   "[html]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
