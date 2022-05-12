@@ -18,6 +18,16 @@ List of plugins and settings that I use for Frontend Development
 ```json
 {
   "telemetry.telemetryLevel": "off",
+  "explorer.confirmDragAndDrop": false,
+  "editor.formatOnSave": true,
+  "explorer.confirmDelete": false,
+  "editor.formatOnPaste": false,
+  "editor.renderWhitespace": "all",
+  "editor.codeActionsOnSave": {
+    "source.fixAll": true
+  },
+  "search.useIgnoreFiles": true,
+  "problems.showCurrentInStatus": true,
 }
 ```
 
@@ -31,14 +41,6 @@ List of plugins and settings that I use for Frontend Development
 ```json
 {
   "gremlins.showInProblemPane": true,
-  "explorer.confirmDragAndDrop": false,
-  "editor.formatOnSave": true,
-  "explorer.confirmDelete": false,
-  "editor.formatOnPaste": false,
-  "editor.renderWhitespace": "all",
-  "editor.codeActionsOnSave": {
-    "source.fixAll": true
-  },
 }
 ```
 - [Highlight Bad Chars](https://marketplace.visualstudio.com/items?itemName=wengerk.highlight-bad-chars)
