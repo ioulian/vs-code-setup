@@ -10,6 +10,8 @@ List of plugins and settings that I use for Frontend Development
 - [TODO Highlight](https://github.com/wayou/vscode-todo-highlight) (Possible duplicate with [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments))
 - [Path Intellisense](https://github.com/ChristianKohler/PathIntellisense)
 - [Red Hat Commons](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-commons)
+- [SVG Viewer](https://marketplace.visualstudio.com/items?itemName=cssho.vscode-svgviewer)
+- [axe Accessibility Linter](https://marketplace.visualstudio.com/items?itemName=deque-systems.vscode-axe-linter)
 
 ### Code in general
 
@@ -20,6 +22,7 @@ List of plugins and settings that I use for Frontend Development
 - [Gremlins tracker for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=nhoizey.gremlins)
 - [Highlight Bad Chars](https://marketplace.visualstudio.com/items?itemName=wengerk.highlight-bad-chars)
 - [HTML accented character converter](https://marketplace.visualstudio.com/items?itemName=enriquein.htmlentity-replacer)
+- [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
 
 ### HTML
 
@@ -79,6 +82,7 @@ List of plugins and settings that I use for Frontend Development
 ### Frameworks
 
 - [Vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur)
+- [VSCode React Refactor](https://marketplace.visualstudio.com/items?itemName=planbcoding.vscode-react-refactor)
 
 ## Settings dump
 
