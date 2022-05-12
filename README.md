@@ -121,6 +121,11 @@ List of plugins and settings that I use for Frontend Development
 ### Docs/Comments
 
 - [Rewrap](https://marketplace.visualstudio.com/items?itemName=stkb.rewrap)
+```json
+{
+  "rewrap.autoWrap.enabled": true,
+}
+```
 
 ### Other languages
 
