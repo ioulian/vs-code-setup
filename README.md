@@ -13,6 +13,14 @@ List of plugins and settings that I use for Frontend Development
 - [SVG Viewer](https://marketplace.visualstudio.com/items?itemName=cssho.vscode-svgviewer)
 - [axe Accessibility Linter](https://marketplace.visualstudio.com/items?itemName=deque-systems.vscode-axe-linter)
 
+#### General editor settings
+
+```json
+{
+  "telemetry.telemetryLevel": "off",
+}
+```
+
 ### Code in general
 
 - [Calculator](https://github.com/lixquid/vscode-calculator) (Nice to have)
@@ -20,6 +28,19 @@ List of plugins and settings that I use for Frontend Development
 ### Character checks and tools
 
 - [Gremlins tracker for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=nhoizey.gremlins)
+```json
+{
+  "gremlins.showInProblemPane": true,
+  "explorer.confirmDragAndDrop": false,
+  "editor.formatOnSave": true,
+  "explorer.confirmDelete": false,
+  "editor.formatOnPaste": false,
+  "editor.renderWhitespace": "all",
+  "editor.codeActionsOnSave": {
+    "source.fixAll": true
+  },
+}
+```
 - [Highlight Bad Chars](https://marketplace.visualstudio.com/items?itemName=wengerk.highlight-bad-chars)
 - [HTML accented character converter](https://marketplace.visualstudio.com/items?itemName=enriquein.htmlentity-replacer)
 - [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
