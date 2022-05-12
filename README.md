@@ -35,6 +35,30 @@ List of plugins and settings that I use for Frontend Development
 - [Sublime Babel](https://github.com/joshpeng/Sublime-Babel-VSCode)
 - [Auto Import](https://marketplace.visualstudio.com/items?itemName=steoates.autoimport)
 - [Prettier](https://github.com/prettier/prettier-vscode)
+  - ```json
+{
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[ejs]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
+}```
 - [ESLint](https://github.com/Microsoft/vscode-eslint)
 
 ### CSS/SCSS/POSTCSS
@@ -83,44 +107,6 @@ List of plugins and settings that I use for Frontend Development
 
 - [Vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur)
 - [VSCode React Refactor](https://marketplace.visualstudio.com/items?itemName=planbcoding.vscode-react-refactor)
-
-## Settings dump
-
-This is the whole settings file, maybe some properties are not needed anymore
-
-```json
-{
-  "editor.formatOnPaste": true,
-  "editor.renderWhitespace": "all",
-  "telemetry.enableCrashReporter": false,
-  "telemetry.enableTelemetry": false,
-  "[html]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
-  },
-  "[ejs]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
-  },
-  "editor.formatOnSave": true,
-  "explorer.confirmDelete": false,
-  "editor.codeActionsOnSave": {
-    "source.fixAll": true
-  },
-  "files.associations": {},
-  "[twig]": {
-    "editor.formatOnSave": false,
-    "editor.formatOnPaste": false
-  },
-  "[json]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
-  },
-  "[javascriptreact]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
-  },
-  "eslint.format.enable": true,
-  "explorer.confirmDragAndDrop": false
-}
-
-```
 
 ## Keyboard shortcuts
 
