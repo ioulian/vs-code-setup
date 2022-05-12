@@ -58,7 +58,8 @@ List of plugins and settings that I use for Frontend Development
   "[javascript]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   }
-}```
+}
+```
 - [ESLint](https://github.com/Microsoft/vscode-eslint)
 
 ### CSS/SCSS/POSTCSS
