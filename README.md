@@ -74,7 +74,7 @@ List of plugins and settings that I use for Frontend Development
 
 - [Sass](https://github.com/robinbentley/vscode-sass-indented)
 - [SCSS Intellisense](https://github.com/mrmlnc/vscode-scss)
-- [Stylelint](https://marketplace.visualstudio.com/items?itemName=stylelint.vscode-stylelint)
+- [Stylelint](https://marketplace.visualstudio.com/items?itemName=stylelint.vscode-stylelint) (!!! Will turn your Mac into an airplane)
 - [vscode-styled-components](https://marketplace.visualstudio.com/items?itemName=styled-components.vscode-styled-components)
 
 ### Markdown
