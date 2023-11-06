@@ -6,12 +6,10 @@ List of plugins and settings that I use for Frontend Development
 ### Editor
 
 - [EditorConfig for VS Code](https://github.com/editorconfig/editorconfig-vscode)
-- [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)
-- [TODO Highlight](https://github.com/wayou/vscode-todo-highlight) (Possible duplicate with [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments))
 - [Path Intellisense](https://github.com/ChristianKohler/PathIntellisense)
-- [Red Hat Commons](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-commons)
-- [SVG Viewer](https://marketplace.visualstudio.com/items?itemName=cssho.vscode-svgviewer)
-- [axe Accessibility Linter](https://marketplace.visualstudio.com/items?itemName=deque-systems.vscode-axe-linter)
+- [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens)
+- [filesize](https://marketplace.visualstudio.com/items?itemName=mkxml.vscode-filesize)
+- [indent-rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)
 
 #### General editor settings
 
@@ -45,18 +43,14 @@ List of plugins and settings that I use for Frontend Development
 ```
 - [Highlight Bad Chars](https://marketplace.visualstudio.com/items?itemName=wengerk.highlight-bad-chars)
 - [HTML accented character converter](https://marketplace.visualstudio.com/items?itemName=enriquein.htmlentity-replacer)
-- [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
 
 ### HTML
 
 - [Auto Close Tag](https://github.com/formulahendry/vscode-auto-close-tag)
 - [Auto Rename Tag](https://github.com/formulahendry/vscode-auto-rename-tag)
-- [HTMLHint](https://github.com/Microsoft/vscode-htmlhint)
 
 ### JS/ES6/TS
 
-- [Sublime Babel](https://github.com/joshpeng/Sublime-Babel-VSCode)
-- [Auto Import](https://marketplace.visualstudio.com/items?itemName=steoates.autoimport)
 - [Prettier](https://github.com/prettier/prettier-vscode)
 ```json
 {
@@ -72,15 +66,7 @@ List of plugins and settings that I use for Frontend Development
 
 ### CSS/SCSS/POSTCSS
 
-- [Sass](https://github.com/robinbentley/vscode-sass-indented)
-- [SCSS Intellisense](https://github.com/mrmlnc/vscode-scss)
-- [Stylelint](https://marketplace.visualstudio.com/items?itemName=stylelint.vscode-stylelint) (!!! Will turn your Mac into an airplane)
 - [vscode-styled-components](https://marketplace.visualstudio.com/items?itemName=styled-components.vscode-styled-components)
-
-### Markdown
-
-- [Markdown All in One](https://github.com/yzhang-gh/vscode-markdown)
-- [markdownlint](https://github.com/DavidAnson/vscode-markdownlint)
 
 ### Git
 
@@ -91,8 +77,6 @@ List of plugins and settings that I use for Frontend Development
 
 ### NPM
 
-- [npm](https://github.com/Microsoft/vscode-npm-scripts)
-- [Npm Dependency](https://github.com/leftstick/vscode-npm-dependency)
 - [npm Dependency Links](https://github.com/herrmannplatz/npm-dependency-links)
 - [npm Intellisense](https://github.com/ChristianKohler/NpmIntellisense)
 - [Search node_modules](https://github.com/jasonnutter/vscode-search-node-modules)
@@ -100,27 +84,13 @@ List of plugins and settings that I use for Frontend Development
 
 ### Docs/Comments
 
-- [Rewrap](https://marketplace.visualstudio.com/items?itemName=stkb.rewrap)
-```json
-{
-  "rewrap.autoWrap.enabled": true,
-}
-```
+- [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)
+- [TODO Highlight](https://github.com/wayou/vscode-todo-highlight) (Possible duplicate with [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments))
 
 ### Other languages
 
 - [DotENV](https://github.com/mikestead/vscode-dotenv)
-- [Apache Conf](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-apache)
-- [XML Tools](https://github.com/DotJoshJohnson/vscode-xml)
 - [YAML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml)
-- [Drupal Syntax Highlighting](https://marketplace.visualstudio.com/items?itemName=marcostazi.VS-code-drupal)
-- [Twig](https://marketplace.visualstudio.com/items?itemName=whatwedo.twig)
-- [Twig Language 2](https://marketplace.visualstudio.com/items?itemName=mblode.twig-language-2)
-
-### Frameworks
-
-- [Vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur)
-- [VSCode React Refactor](https://marketplace.visualstudio.com/items?itemName=planbcoding.vscode-react-refactor)
 
 ## Keyboard shortcuts
 
