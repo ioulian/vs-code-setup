@@ -26,6 +26,7 @@ List of plugins and settings that I use for Frontend Development
   },
   "search.useIgnoreFiles": true,
   "problems.showCurrentInStatus": true,
+  "typescript.preferences.importModuleSpecifier": "non-relative"
 }
 ```
 
